@@ -1,7 +1,6 @@
 img {
     display:block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 50px;
 }
 
 h1 {
@@ -15,6 +14,9 @@ p, ul, ol {
 .container {
     display: flex;
     flex-direction: column;
-    margin: 160px;
+    justify-content: flex-start;
+    margin: 150px;
+    margin-left: 50px;
+    margin-right: 265px;
     margin-top: auto;
 }

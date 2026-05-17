@@ -19,4 +19,6 @@ p, ul, ol {
     margin-left: 50px;
     margin-right: 265px;
     margin-top: auto;
+    width: 700px;
+    height: auto;
 }
